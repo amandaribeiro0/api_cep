@@ -5,4 +5,5 @@ Página que mostra informações de um endereço a partir do CEP digitado.
 https://viacep.com.br/
 
 # Tecnologias Utilizadas
-HTM, CSS, JavaScript e Bootstrap
+JS, HTML, CSS e Bootstrap
+

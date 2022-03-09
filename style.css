@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+body{
+    font-family: 'Arvo', serif;
+}
+
+.card-body{
+    background-color: rgb(245, 245, 245);
+    border-top-style: solid;
+}
+
+#topo{
+    background-color: rgb(148, 148, 148);
+    border-top-style: none;
+    border-top-left-radius:45px ;
+    border-top-right-radius:45px ;
+    font-size: xx-large;
+    font-weight: bolder;
+}
